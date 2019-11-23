@@ -1,0 +1,13 @@
+# Que es un widgets en flutter ? 
+  R//Un widgets son elementos que conforman la interfaz grafica y que ayudan a interactuar con la pantalla del dispositivo android.
+  
+#Cuál es la diferencia entre un Stateful y un Stateless Widget?
+  R//El Stateless Widget solo se imprime o se muestra en pantalla una sola ves ya que no tiene un estado que se actualize automaticamente y el Stateful se le tiene que crear un estado y especificarlo en cada widget que queramos crear
+  
+#Entre al catálogo de Widgets en Flutter y nombre 5 Widgets de distintas categorías:
+	1(MergeSemantic)
+	2(Opacity)
+	3(Transform)
+	4(MediaQuery)
+	5(ListView)
+
